@@ -1,0 +1,28 @@
+
+.main-container{
+  margin-top: 50px;
+}
+.form_title{
+  text-align: center;
+}
+
+.main_content{
+  border-left: 1px solid #f4f4f4 ;
+}
+question_title{
+  margin-bottom: 5px;
+}
+.question_meta{
+  background: #f4f4f4;
+  padding: 5px;
+}
+
+.question_body{
+  text-align: justify;
+}
+body{
+  background-image:  linear-gradient(to right, rgba(255,0,0,0), rgb(46, 151, 184));
+}
+ .main-container{background-color:;
+  border-radius: 15px;
+}
